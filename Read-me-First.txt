@@ -1,0 +1,8 @@
+// Hospital Management
+// NOTE => Space is not included
+// Globaly string array
+//printing the welcome note
+//giving option to the user for their choice
+// NOTE => goto is used to to jump back to specific alphabet
+//NOTE => "Both Patient's File Name will be same "
+//NOTE => Password= "yenyenyen"
